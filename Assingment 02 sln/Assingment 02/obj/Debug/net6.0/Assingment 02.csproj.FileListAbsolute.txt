@@ -1,0 +1,15 @@
+F:\BackEnd\C#\Assingment 02 sln\Assingment 02\bin\Debug\net6.0\Assingment 02.exe
+F:\BackEnd\C#\Assingment 02 sln\Assingment 02\bin\Debug\net6.0\Assingment 02.deps.json
+F:\BackEnd\C#\Assingment 02 sln\Assingment 02\bin\Debug\net6.0\Assingment 02.runtimeconfig.json
+F:\BackEnd\C#\Assingment 02 sln\Assingment 02\bin\Debug\net6.0\Assingment 02.dll
+F:\BackEnd\C#\Assingment 02 sln\Assingment 02\bin\Debug\net6.0\Assingment 02.pdb
+F:\BackEnd\C#\Assingment 02 sln\Assingment 02\obj\Debug\net6.0\Assingment 02.csproj.AssemblyReference.cache
+F:\BackEnd\C#\Assingment 02 sln\Assingment 02\obj\Debug\net6.0\Assingment 02.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\C#\Assingment 02 sln\Assingment 02\obj\Debug\net6.0\Assingment 02.AssemblyInfoInputs.cache
+F:\BackEnd\C#\Assingment 02 sln\Assingment 02\obj\Debug\net6.0\Assingment 02.AssemblyInfo.cs
+F:\BackEnd\C#\Assingment 02 sln\Assingment 02\obj\Debug\net6.0\Assingment 02.csproj.CoreCompileInputs.cache
+F:\BackEnd\C#\Assingment 02 sln\Assingment 02\obj\Debug\net6.0\Assingment 02.dll
+F:\BackEnd\C#\Assingment 02 sln\Assingment 02\obj\Debug\net6.0\refint\Assingment 02.dll
+F:\BackEnd\C#\Assingment 02 sln\Assingment 02\obj\Debug\net6.0\Assingment 02.pdb
+F:\BackEnd\C#\Assingment 02 sln\Assingment 02\obj\Debug\net6.0\Assingment 02.genruntimeconfig.cache
+F:\BackEnd\C#\Assingment 02 sln\Assingment 02\obj\Debug\net6.0\ref\Assingment 02.dll
